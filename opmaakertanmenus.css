@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(219, 219, 219);
+}
+
+h1
+{
+    color: black;
+}
+
+table
+{
+    border-collapse: collapse;
+    border-width: 3px;
+    margin: 5px;
+    font-size: 15px;
+    font-family: sans-serif;
+    background-color: white;
+}
+
+td, th
+{
+    color: black;
+    padding: 5px;
+}
+
+a
+{
+    color: black;
+    font-size: 15px;
+    font-family: sans-serif;
+    font-weight: bolder;
+}
